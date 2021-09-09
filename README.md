@@ -21,7 +21,7 @@
 ![Chart.JS](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![C#](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-430098?style=for-the-badge&logo=csharp&logoColor=white)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HidayaSyam&count_private=true&show_icons=true&theme=dracula)
