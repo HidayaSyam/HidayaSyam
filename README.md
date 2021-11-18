@@ -29,7 +29,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HidayaSyam&layout=compact&theme=dracula&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's Connect!
-- 💌  <a href="mailto:HidayaSyam19@gmail.com">Gmail</a>
+- 💌  <a href="mailto:HidayaSyam98@gmail.com">Gmail</a>
 - 💼 [LinkedIn](https://www.linkedin.com/in/hidayasyam/)
 
 
